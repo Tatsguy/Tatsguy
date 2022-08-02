@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tatsguy
 - 👀 I’m interested in all about programming
-- 🌱 I’m currently learning Oriented Objects Programming
+- 🌱 I’m currently learning Backend with JAVA
 
 <!---
 Tatsguy/Tatsguy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
