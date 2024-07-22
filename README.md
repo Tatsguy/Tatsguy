@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Tatsguy
-- 👀 I’m interested in all about programming
-- 🌱 I’m currently learning Backend with JAVA
+Torta de chorizo
 
 <!---
 Tatsguy/Tatsguy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
